@@ -2,7 +2,7 @@
 :email: sivashanmugam4444@gmail.com  
 :globe_with_meridians: Tweet at [_siva_kannan](https://twitter.com/_siva_kannan)  
 :newspaper: Write at [medium.com/@_siva_kannan](https://medium.com/@_siva_kannan)  
-:question: Discuss at [stackforum](https://stackexchange.com/users/2388429/sivashanmugam-kannan?tab=accounts)
+:question: Forum [stackforum](https://stackexchange.com/users/2388429/sivashanmugam-kannan?tab=accounts)
 
 
 ### Bored ! Try these
