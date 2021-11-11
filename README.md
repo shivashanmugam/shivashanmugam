@@ -1,6 +1,6 @@
-### Free time works
+### Some of my works
 
-:video_game: [Bugs Vs Developer](https://shivashanmugam.github.io/bugs-vs-developer/):stuck_out_tongue:  
+:video_game: [Bugs Vs Developer](https://shivashanmugam.github.io/bugs-vs-developer/)
 :headphones: [audio visualizer for synthwave](https://shivashanmugam.github.io/Web-Audio-API-With-visualizer/)  
 A table lib for **angularJS** :sleeping: [Link](https://shivashanmugam.github.io/table-almighty/)  
 
