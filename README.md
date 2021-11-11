@@ -1,4 +1,7 @@
-### Fun works
+### Free time works
+
+[![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
+
 :video_game: [Bugs Vs Developer](https://shivashanmugam.github.io/bugs-vs-developer/):stuck_out_tongue:  
 :headphones: [audio visualizer for synthwave](https://shivashanmugam.github.io/Web-Audio-API-With-visualizer/)  
 A table lib for **angularJS** :sleeping: [Link](https://shivashanmugam.github.io/table-almighty/)  
